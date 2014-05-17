@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://kazgcp.github.io
-title: Go Free
-subtitle: A blog about MOOCs and EdTech.
+url: http://www.xeducation.net
+title: xeducation
+subtitle: My learning logs and hacks.
 author: KazGrandcanyon
 simple_search: http://google.com/search
 description:
@@ -19,7 +19,7 @@ date_format: "%Y-%M-%D"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email_md5: 887f7244a5dede8cad785e2ffb12dc8c
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -91,11 +91,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: xeducation
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-48963206-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
